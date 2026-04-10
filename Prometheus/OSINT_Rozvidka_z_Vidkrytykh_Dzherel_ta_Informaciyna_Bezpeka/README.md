@@ -1,4 +1,4 @@
-# Prometheus курси - Пройдені модулі та відповіді до курсу OSINT - Open Source Intelligence
+# Prometheus курс OSINT - Open Source Intelligence - Пройдені модулі та відповіді до курсу 
 
 ## Опис курсу
 
