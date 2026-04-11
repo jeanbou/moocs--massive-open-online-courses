@@ -25,6 +25,7 @@ The material here comes from globally recognized platforms offering certificatio
 - [Coursera](https://www.coursera.org/) — University-level computer science, AI, data science 
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/) — Azure cloud, DevOps, enterprise tools 
 - [OpenClassrooms](https://openclassrooms.com/) — Career-focused programming and design paths 
+- [Prometheus](https://prometheus.org.ua/) — Ukraine’s largest free online learning platform offering professional courses, university programs, and career development resources
 - [Udemy](https://www.udemy.com/) — Broad range of tech courses including Python, Docker, Web Dev, ML 
 
 Each subfolder contains notes or source files directly linked to challenges or tasks completed during these courses.
