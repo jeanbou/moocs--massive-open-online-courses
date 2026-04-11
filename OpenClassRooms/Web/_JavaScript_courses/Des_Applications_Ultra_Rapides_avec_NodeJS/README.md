@@ -1,16 +1,97 @@
-# Des applications ultra-rapides avec Node.js
+# Des applications ultra-rapides avec Node.js - OpenClassrooms
 
-[Link on the course](https://openclassrooms.com/en/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb?archived-source=1056721)
+This repository contains answers and notes for the OpenClassrooms course:
 
-*Description:*
+Des applications ultra-rapides avec Node.js
 
-Node.js, c'est un peu l'outil dont les developpeurs web entendent parler tout le temps en ce moment. Il y a ceux qui connaissent (et qui ont l'air de s'eclater en l'utilisant) et il y a ceux qui se disent "Bon, ca serait bien que j'y jette un oeil, mais je ne sais pas par ou commencer".
+Course link:  
+https://openclassrooms.com/fr/courses/1056721-des-applications-ultra-rapides-avec-node-js
 
-Vous etes de ceux-la ? Ca tombe bien, je l'ai ete moi aussi ! ;)
+---
 
-Pourquoi la communaute des developpeurs web est-elle autant excitee par Node.js ? Pourquoi cet interet aussi massif pour le langage JavaScript ? Cacherait-il des ressources insoupconnees ? Ou tout ca n'est qu'un effet de mode qui passera aussi vite qu'il est arrive ?
+## Présentation du cours
 
-Le mieux pour se faire une idee est de le tester. Si vous avez deja un bon niveau en developpement web, il ne vous faudra que quelques jours pour couvrir globalement Node.js en surface et savoir ce qu'il vaut et a quoi il sert. Et si vous voulez aller plus loin, il ne tiendra plus qu'a vous de pratiquer plus en profondeur !
+Ce cours vous introduit à **Node.js**, une technologie moderne qui permet d’exécuter du JavaScript côté serveur.
 
+Node.js est devenu extrêmement populaire dans la communauté des développeurs web grâce à sa capacité à créer des applications **rapides, performantes et scalables**.
 
-ATTENTION: My final solution is buggy to correct it, but it's a good base
+Si vous vous êtes déjà demandé :
+
+- Pourquoi Node.js est-il autant utilisé ?  
+- Pourquoi JavaScript est devenu incontournable côté serveur ?  
+- Est-ce une révolution ou une tendance passagère ?  
+
+Ce cours vous permet de répondre à ces questions en pratiquant.
+
+Vous découvrirez comment utiliser Node.js pour créer des applications web performantes et comprendre ses avantages.
+
+---
+
+## Objectifs du cours
+
+À la fin de ce cours, vous serez capable de :
+
+- Comprendre le fonctionnement de Node.js  
+- Créer un serveur web avec JavaScript  
+- Gérer les requêtes et réponses HTTP  
+- Construire des applications rapides et efficaces  
+- Comprendre les concepts d’asynchronisme  
+- Manipuler des modules Node.js  
+
+---
+
+## Structure du cours
+
+### 1. Introduction à Node.js
+- Qu’est-ce que Node.js  
+- Pourquoi utiliser Node.js  
+- Installation et configuration  
+
+### 2. Création d’un serveur web
+- Mise en place d’un serveur HTTP  
+- Gestion des routes  
+- Réponses aux requêtes  
+
+### 3. Programmation asynchrone
+- Callbacks  
+- Promises  
+- Gestion des opérations non bloquantes  
+
+### 4. Modules et organisation
+- Utilisation des modules Node.js  
+- Structuration du code  
+- Bonnes pratiques  
+
+---
+
+## Ce que contient ce repository
+
+- Réponses aux quiz et évaluations  
+- Résultats des modules  
+- Notes pratiques sur Node.js  
+- Exemples de code  
+
+⚠️ Note : La solution finale peut contenir des bugs. Elle constitue une bonne base de travail à améliorer.
+
+---
+
+## Pourquoi utiliser ce repository
+
+- Vérifier rapidement ses réponses  
+- Comprendre les bases de Node.js  
+- Gagner du temps pendant l’apprentissage  
+- Servir de référence pour projets backend  
+
+---
+
+## Prérequis
+
+- Bon niveau en développement web  
+- Connaissances en JavaScript  
+- Bases en HTML/CSS recommandées  
+
+---
+
+## Disclaimer
+
+Les réponses sont fournies à des fins éducatives uniquement. Il est recommandé de suivre le cours et de pratiquer pour bien comprendre les concepts.
