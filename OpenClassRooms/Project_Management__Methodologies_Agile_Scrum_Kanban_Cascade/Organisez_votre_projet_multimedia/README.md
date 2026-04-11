@@ -1,17 +1,88 @@
-# Organisez votre projet multimedia 
+# Organisez votre projet multimedia - OpenClassrooms
 
-*Description of this old course:*
+Ce repository contient les reponses et notes pour le cours OpenClassrooms :
 
-Vous etes chef de projet web en poste ou en devenir, et  et vous aimeriez organiser vos projets de main de maitre ? Vous avez besoin d'outils et de methodes pour cadrer le planning et le budget de vos clients ? Alors venez decouvrir comment vous organiser au mieux pour assurer la reussite de vos projets dans les limites imposees. 
+Organisez votre projet multimedia
 
-Avant de vous lancer, je vous conseille de consulter les autres cours de notre serie sur la gestion de projet, l'un sur la methode de gestion de projet en cascade, le deuxieme sur le cadrage projet et enfin le troisieme sur le cahier des charges, surtout si vous ne connaissez pas ces sujets.
-Je vais vous accompagner pas a pas dans le cadrage financier et temporel d'un projet en fonction des attentes de votre client. L'important, c'est de bien definir le perimetre projet dans le cahier des charges, et ensuite vous pourrez estimer plus facilement la charge de travail de votre equipe et le temps necessaire a l'execution du projet, sans oublier les imperatifs legaux !
+Lien du cours :  
+https://openclassrooms.com/fr/courses/3013636-organisez-votre-projet-multimedia
 
-*A l'issue de ce cours, vous saurez :*
+---
 
-* Realiser un plan de charge
-* Monter un budget
-* Estimer un planning
-* Rediger un devis
-* Lever les alertes legales necessaires dans un projet web
-* Rejoignez ce cours, et je vous aiderai a organiser votre projet web de facon efficace !
+## Presentation du cours
+
+Vous etes chef de projet web en poste ou en devenir ?  
+Vous souhaitez organiser vos projets de maniere efficace et professionnelle ?
+
+Ce cours vous aide a structurer et piloter un projet multimedia en prenant en compte les contraintes de temps, de budget et de qualite.
+
+Vous apprendrez a organiser vos projets de bout en bout afin d'assurer leur reussite dans les limites imposees.
+
+Avant de vous lancer, il est recommande de connaitre les bases de la gestion de projet (cycle en cascade, cadrage projet, cahier des charges).
+
+Le cours vous accompagne pas a pas dans :
+
+- Le cadrage financier et temporel d'un projet  
+- La definition du perimetre dans le cahier des charges  
+- L'estimation de la charge de travail  
+- La planification des taches  
+- La prise en compte des contraintes legales  
+
+---
+
+## Objectifs du cours
+
+A l'issue de ce cours, vous serez capable de :
+
+- Realiser un plan de charge  
+- Monter un budget  
+- Estimer un planning  
+- Rediger un devis  
+- Identifier les contraintes legales d'un projet web  
+- Organiser un projet multimedia de maniere efficace  
+
+---
+
+## Ce que contient ce repository
+
+Dans ce repository, vous trouverez :
+
+- Les reponses aux quiz et evaluations  
+- Les resultats des modules  
+- Des notes pratiques en gestion de projet  
+- Des exemples et bonnes pratiques  
+
+---
+
+## Pourquoi utiliser ce repository
+
+- Verifier rapidement vos reponses  
+- Gagner du temps pendant l'apprentissage  
+- Mieux comprendre la gestion de projet multimedia  
+- Servir de reference pour vos projets professionnels  
+
+---
+
+## Prerequis
+
+Pour suivre ce cours efficacement, il est recommande de :
+
+- Avoir des bases en gestion de projet  
+- Comprendre les notions de cahier des charges  
+- Avoir une premiere experience en environnement web (optionnel)  
+
+---
+
+## Disclaimer
+
+Les reponses sont fournies a des fins educatives uniquement. Il est fortement recommande de suivre le cours et de comprendre les concepts plutot que de copier les reponses.
+
+---
+
+## Contributions
+
+Les contributions sont les bienvenues :
+
+- Corrections  
+- Ameliorations  
+- Ajout de notes ou exemples
